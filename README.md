@@ -1,7 +1,3 @@
-Here’s your expanded, detailed README with all the content from earlier, updated for your [Webgen](https://github.com/Arish03/Webgen) project.  
-You can simply copy and paste this into your `README.md` file.
-
----
 
 # Webgen
 
