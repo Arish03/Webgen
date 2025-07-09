@@ -1,5 +1,5 @@
 
-# Webgen
+# Webgen-AI
 
 Webgen is an AI-powered tool that allows you to generate full-featured websites from simple prompts. It leverages Next.js, Node.js, Tailwind CSS, and the Google Gemini API for a streamlined, creative, and efficient web development experience.
 
@@ -61,7 +61,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Arish03/Webgen.git
-cd Webgen
+cd Webgen-AI
 npm i
 ```
 
